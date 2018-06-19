@@ -10,7 +10,7 @@ Look up on cookies and session )
 uncheck them too.
 3. Create Notes with a title for each note
 # GENERAL INSTRUCTIONS
-1. Install XAMPP on your laptop/pc.
-2. Extract these files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg. C:\xampp\htdocs\demo
+1. Install XAMPP (X- any OS A-Apache M-MySql P-PHP P-Pearl) on your laptop/pc (works on all operating systems).
+2. Extract the above php and html files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg.    C:\xampp\htdocs\demo
 3. Create database hari_db in http://localhost/phpmyadmin/index.php by clicking on the new icon on the left of the page.
 4. Within the database create table 
