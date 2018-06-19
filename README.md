@@ -19,6 +19,5 @@ id INT(9) AUTO_INCREMENT PRIMARY KEY,
 name VARCHAR(255),
 email VARCHAR(255),
 telephone bigint(10),
-password VARCHAR(255),
-image blob
+password VARCHAR(255)
 );
