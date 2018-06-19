@@ -14,10 +14,10 @@ uncheck them too.
 2. Extract the above php and html files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg.    C:\xampp\htdocs\demo
 3. # Create database hari_db in http://localhost/phpmyadmin/index.php by clicking on the new icon on the left of the page.
 4. # Within the database create table user in XAMPP PHPMYADMIN SQL control pannel.
-5. CREATE TABLE user (
-id INT(9) AUTO_INCREMENT PRIMARY KEY,
-name VARCHAR(255),
-email VARCHAR(255),
-telephone bigint(10),
-password VARCHAR(255)
-);
+5.  #  CREATE TABLE user (
+    #   id INT(9) AUTO_INCREMENT PRIMARY KEY,
+    #   name VARCHAR(255),
+    #   email VARCHAR(255),
+    #   telephone bigint(10),
+    #    password VARCHAR(255)
+     #  );
