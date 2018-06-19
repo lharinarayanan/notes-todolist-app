@@ -1,5 +1,5 @@
 # spider-task-2
-# Done with PHP VERSION 7.1 AND FOR THIS TASK PROCEDURAL MYSQL CODE HASBEEN WRITTEN.
+# Done with PHP VERSION 7.2.5 AND FOR THIS TASK PROCEDURAL MYSQL CODE HASBEEN WRITTEN.
 Task Objective Fullfilled so far
 # Basic Mode
 1. Users should be able to sign in and sign up, make sure you read up on encrypting your
