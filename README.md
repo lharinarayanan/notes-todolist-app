@@ -1,6 +1,6 @@
 # spider-task-2
-# Done with PHP VERSION 7.2.5 AND FOR THIS TASK PROCEDURAL MYSQL CODE HASBEEN WRITTEN.
-Task Objective Fullfilled so far
+# Done with PHP VERSION 7.2.5 and code has been written with mysql procedural.
+Task Objective Fulfilled so far
 # Basic Mode
 1. Users should be able to sign in and sign up, make sure you read up on encrypting your
 passwords and storing them safely for this. Also check for possible ways someone can
@@ -13,4 +13,4 @@ uncheck them too.
 1. Install XAMPP on your laptop/pc.
 2. Extract these files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg. C:\xampp\htdocs\demo
 3. Create database hari_db http://localhost/phpmyadmin/index.php.
-4. Withhin the database create table 
+4. Within the database create table 
