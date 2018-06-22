@@ -1,6 +1,6 @@
 # Spider-task-2
 ## Done with PHP Version 7.2.5 and code for accessing and manipulating database has been written in mysql procedural format.
-****_Task Objective(s) Fulfilled so far 
+## Task Objective(s) Fulfilled so far 
 ### Basic Mode
 1. Users should be able to sign in and sign up, make sure you read up on encrypting your
 passwords and storing them safely for this. Also check for possible ways someone can
