@@ -13,6 +13,7 @@ uncheck them too.
 1. Record time of creation and last edit time of these notes and lists.
 2. Provide sorting features based on time(shown here),level of importance of the note (get as creative
 as possible here, think like a user and see what can enhance its usefulness)
+//3.Additional feature of user editting his own details is added
 # GENERAL INSTRUCTIONS To run this task
 1. Install XAMPP (X- any OS A-Apache M-MySql P-PHP P-Pearl) on your laptop/pc (works on all operating systems).
 2. Extract the above php and html files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg.    C:\xampp\htdocs\demo
@@ -41,3 +42,5 @@ as possible here, think like a user and see what can enhance its usefulness)
        task VARCHAR(255)
        );
 8. Place the above link in your browser http://localhost/demo/sp_login.php
+P.S
+1. Not much of emphasis has been given to styling of the webpage.
