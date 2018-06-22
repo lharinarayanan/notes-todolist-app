@@ -42,5 +42,5 @@ as possible here, think like a user and see what can enhance its usefulness)
        task VARCHAR(255)
        );
 8. Place the above link in your browser http://localhost/demo/sp_login.php
-P.S
+ # P.S
 1. Not much of emphasis has been given to styling of the webpage.
