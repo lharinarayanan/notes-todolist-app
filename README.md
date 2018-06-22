@@ -29,7 +29,7 @@ as possible here, think like a user and see what can enhance its usefulness)
        id INT(9) AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(255),
        title VARCHAR(255),
-       time datetime(), // # don't provide any default length  
+       time datetime, // # don't provide any default length  
         note VARCHAR(255)
        );
 
@@ -37,7 +37,7 @@ as possible here, think like a user and see what can enhance its usefulness)
        id INT(9) AUTO_INCREMENT PRIMARY KEY,
        name VARCHAR(255),
        todotitle VARCHAR(255),
-       tdate datetime(), // # don't provide any default length  
+       tdate datetime, // # don't provide any default length  
        task VARCHAR(255)
        );
        
