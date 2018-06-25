@@ -10,10 +10,10 @@ Look up on cookies and session )
 uncheck them too.
 3. Create Notes with a title for each note
 ### Advanced Task
-1. Record time of creation and last edit time of these notes and lists.
+1. Record time of creation and last edit time of these notes and lists.(time displayed shows the latest editted time and if theree is  no edit,it shows the creationtime).
 2. Provide sorting features based on time(shown here),level of importance of the note (get as creative
 as possible here, think like a user and see what can enhance its usefulness)
-//3.Additional feature of user editting his own details is added
+//3.Additional feature of user editting his own personal details is added
 ### General Instructions To run this task
 1. Install XAMPP (X- any OS A-Apache M-MySql P-PHP P-Pearl) on your laptop/pc (works on all operating systems).
 2. Extract the above php and html files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg.    C:\xampp\htdocs\demo
