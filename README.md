@@ -10,7 +10,7 @@ Look up on cookies and session )
 uncheck them too.
 3. Create Notes with a title for each note
 ### Advanced Task
-1. Record time of creation and last edit time of these notes and lists.(time displayed shows the latest editted time and if theree is  no edit,it shows the creationtime).
+1. Record time of creation and last edit time of these notes and lists.(time displayed shows the latest editted time and if there is  no edit,it shows the time of creation).
 2. Provide sorting features based on time(shown here),level of importance of the note (get as creative
 as possible here, think like a user and see what can enhance its usefulness)
 //3.Additional feature of user editting his own personal details is added
