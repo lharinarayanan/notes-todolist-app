@@ -225,6 +225,14 @@
    	            return true;
             }
  }
+		 function isNumber(evt) {
+                       evt = (evt) ? evt : window.event;
+                       var charCode = (evt.which) ? evt.which : evt.keyCode;
+                               if (charCode > 31 && (charCode < 48 || charCode > 57)) {
+                              return false;
+                         }
+                           return true;
+                  }
 	</script>         	
 
 
@@ -240,7 +248,7 @@
                 <input type="text" name="UserName" placeholder="User Name" required><span id="userid"></span><br>
                 <input type="password" name="Password" placeholder="Password" required><span id="passw"></span><br>
                 <input type="email" name="Email" placeholder="Email" required><span id="em"></span><br>
-                <input type="tel" name="telephone" placeholder="Telephone number" required maxlength="10"><span id="pho"></span><br>
+                <input type="tel" name="telephone" placeholder="Telephone number" required maxlength="10" onkeypress="return isNumber(event)"><span id="pho"></span><br>
                 <textarea name="address" rows="8" cols="30" placeholder="Address" id="add"></textarea><span id="addr"></span><br><br>
                  <br>
                 <input type="submit" name="submit"><br>
