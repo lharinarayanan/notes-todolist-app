@@ -15,7 +15,7 @@ uncheck them too.
 as possible here, think like a user and see what can enhance its usefulness)
 //3.Additional feature of user editting his own personal details is added
 ### General Instructions To run this task
-1. Install XAMPP (X- any OS A-Apache M-MySql P-PHP P-Pearl) on your laptop/pc (works on all operating systems).
+1. Install XAMPP (X- any OS A-Apache M-MySql P-PHP P-Pearl) on your laptop/pc (works on all operating systems).After installation start     the apache and mysql componemts in the xampp control pannel.
 2. Extract the above php and html files to the demo folder in the htdocs folder within the xampp folder in your respective localdisk eg.    C:\xampp\htdocs\demo
 3.  Create database hari_db in http://localhost/phpmyadmin/index.php by clicking on the new icon on the left of the page.
 4.  Within the database create the following tables in XAMPP PHPMYADMIN SQL control pannel within the database.
@@ -45,3 +45,4 @@ as possible here, think like a user and see what can enhance its usefulness)
  ## Thus the user can signup/login if his account exists and can add edit remove notes and can check in or check out his todo lists which he can add/remove/edit.
  ### P.S
 1. Not much of emphasis has been given to styling of the webpage.
+2. The apache and mysql component in the XAMPP control pannel need to be started only once but it sholud be done after you log into your    system.   
